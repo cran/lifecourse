@@ -1,0 +1,16 @@
+c57ea4c008b20951f16398de8c710bb1 *DESCRIPTION
+d537241bb852c734d36a013f069f28ac *NAMESPACE
+dba655d562d9c9731a05cd72ff27b51a *R/linkedLives.R
+d580a586a9431a6c1e3b4bd3b61ee706 *R/mobility_index.R
+b58e0db16e02bc465e979a4704a6ef66 *R/nonStanTest.R
+cd7a3e081f407404ae1a6b3c1e6aa651 *data/myHouseID.tab
+9accadd937ca99647e56f36fcadfa5b0 *data/mydata.tab
+3cee2ac8d95956b43f42d3ccce4e0d0b *man/figures/clustered.jpeg
+d4c3662b5a96075a51394d85a73195f2 *man/figures/random.jpeg
+7894bff9f58eaed2f73a2aa72d8f229f *man/figures/regular.jpeg
+3ed409537ea2bac2de7ad0fa2c87fe86 *man/lifecourse-package.Rd
+d8c579ef2214760c7beea4a088e312f2 *man/linkedLives.Rd
+899030cd636df11522606b9a6f477c4c *man/mobility_index.Rd
+d035e3985a3d040f69c1c98fc87adde2 *man/myHouseID.Rd
+9802392d77e3102c27fd2e0d31814171 *man/mydata.Rd
+9774a59cdfe87ffcdae54abe76719ea4 *man/nonStanTest.Rd
