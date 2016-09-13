@@ -6,7 +6,7 @@ non-standardization test for lifecourses of linked lives
 }
 \description{
 The non-standardization test for lifecourses with linked lives.
-The simulations carried out for this test account for the fact that some individuals are more likely to have identical lifecourse trajectories.
+The simulations carried out for this test account for the fact that some individuals are more likely to have identical lifecourse trajectories.  Acknowledgements: CPC St Andrews/Edinburgh.
 }
 \usage{
 linkedLives(currentData, sequenceUnits, lifecourseSequences)
